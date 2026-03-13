@@ -10,6 +10,6 @@ draw_set_color(c_navy);
 
 // Draw the score in the t.r
 var w = display_get_gui_width();
-draw_text(w - 200, 40, "Score: " + string(score));
+draw_text(w - 100, 20, "Score: " + string(score));
 
 

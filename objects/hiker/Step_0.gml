@@ -61,4 +61,3 @@ if (score_timer >= room_speed * 2) { // 2 seconds
     score_timer = 0;
 }
 
-
